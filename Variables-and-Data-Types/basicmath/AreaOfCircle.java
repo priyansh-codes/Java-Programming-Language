@@ -11,7 +11,7 @@ public class AreaOfCircle {
 
         System.out.println("Program to find area of Circle:- ");
         System.out.println("Enter radius of the circle:- ");
-        radius= sc.nextInt();
+        radius = sc.nextInt();
 
         area = Math.PI * radius * radius;
 

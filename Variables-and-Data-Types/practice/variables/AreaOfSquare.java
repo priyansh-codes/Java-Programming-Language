@@ -14,11 +14,11 @@ public class AreaOfSquare {
 
         System.out.println("Program to find area of Square:- ");
         System.out.println("Enter the side:- ");
-        side=sc.nextInt();
+        side = sc.nextInt();
 
         area = side * side;
 
-        System.out.println("Area of the Square with side "+side+ " unit is:- "+area+ " sq. units");
+        System.out.println("Area of the Square with side " + side + " unit is:- " + area + " sq. units");
 
     }
 }

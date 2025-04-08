@@ -22,9 +22,9 @@ public class AverageOfThree {
         System.out.println("Enter third number:- ");
         num3 = sc.nextDouble();
 
-        avg = (num1+num2+num3)/3;
+        avg = (num1 + num2 + num3) / 3;
 
-        System.out.println("Average of the three numbers is:- " +avg);
+        System.out.println("Average of the three numbers is:- " + avg);
 
     }
 }

@@ -6,7 +6,7 @@ public class SumTwoNumbers {
         int a = 15;
         int b = 24;
 
-        int sum = a+b;
+        int sum = a + b;
 
         System.out.println(sum);
 
